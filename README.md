@@ -1,6 +1,6 @@
 ### Hi there, I am Asad.👋
 I am a software engineer based in India. I like to build fast ⚡ and beautiful 🎨 web applications. My core tech stack includes Next, Typescript and Tailwind.
 
-![EzyIcons](https://ezy-icons.vercel.app/skills?icons=html,css,typescript,javascript,nextjs-dark,tailwindcss-dark,nodejs-dark,git,github-dark,figma-light&perLine=15)
+![Ezicons](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-light-js,skills-light-typescript,skills-light-nextjs,skills-light-html5,skills-light-css3,skills-light-nodejs,skills-light-mongodb,skills-light-tailwind)
 
-The above icon pack is one of my projects called [ezy-icons](https://github.com/asyncasad/ezy-icons).
+The above icon pack is one of my projects called [ezy-icons](https://github.com/asyncasad/ezicons).
